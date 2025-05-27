@@ -1,0 +1,6 @@
+
+
+(BUILD_TYPE, Debug),
+
+(BUILD_TEST_APP, True)
+
