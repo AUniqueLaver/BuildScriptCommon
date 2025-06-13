@@ -1,14 +1,14 @@
 #! /bin/bash
 
-source ./PreprocessorDirectives.sh
+source ./PreProcessorDirectives.sh
 
 source ./configVars.sh
 
 
-export CC="/opt/homebrew/Cellar/llvm/20.1.5/bin/clang";
-export CCX="/opt/homebrew/Cellar/llvm/20.1.5/bin/clang++";
+export CC="";
+export CCX="";
 
-export LDFLAGS="-fuse-ld=lld";
+export LDFLAGS="";
 
 
 isInDirectory="False"
