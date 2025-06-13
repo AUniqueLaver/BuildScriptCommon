@@ -1,6 +1,6 @@
 #! /bin/bash
 
-source ./PreprocessorDirectives.sh
+source ./PreProcessorDirectives.sh
 
 source ./configVars.sh
 
